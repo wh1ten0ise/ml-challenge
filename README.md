@@ -21,3 +21,5 @@
 
 # MISC
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://colab.research.google.com/notebooks/intro.ipynb
+* https://towardsdatascience.com/how-to-practice-python-with-google-colab-45fc6b7d118b?gi=8ce550246d8a
