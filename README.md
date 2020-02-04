@@ -1,4 +1,4 @@
-# ml-challenge
+# GLOBAL MACHINE LEARNING CHALLENGE
 
 # CHALLENGES
 * https://radu-enuca.gitbook.io/ml-challenge/
